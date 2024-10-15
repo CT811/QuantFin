@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: bintreeOpt
+Version: 0.0.1
+Summary: Calculate European option prices using binomial trees
+Author: Chrysafis Tsoukalas
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: numpy
