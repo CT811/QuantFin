@@ -1,0 +1,8 @@
+myenv
+venv
+env
+
+src/data_processing/__pycache__
+src/api_extract/__pycache__
+
+.env
