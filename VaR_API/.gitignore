@@ -2,6 +2,7 @@ myenv
 venv
 env
 
+src/__pycache__
 src/data_processing/__pycache__
 src/api_extract/__pycache__
 
